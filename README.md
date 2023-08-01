@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I am passionate Frontend Developer.<br>Currently I am working on frontend of a API Documentation, in this project i am using NEXTjs.<br>I am also learning Backend components like Express JS and MongoDB.<br>I am also good at WAMP technologies(Windows, Apache, MySQL, PHP)
-
+I am an enthusiastic front-end developer.<br/>
+In my current project, I'm utilising NEXTjs to create the front end of an API documentation.<br/>
+I'm currently studying backend elements like Express JS and MongoDB.<br/>
+WAMP (Windows, Apache, MySQL, PHP) technologies are another area where I perform well.<br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/niraj_vadher_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nirajvadher0711) 
