@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 I am an enthusiastic front-end developer.<br/>
-In my current project, I'm utilising NEXTjs to create the front end of an API documentation.<br/>
+In my current project, I'm utilising NEXTjs to create the front-end.<br/>
 I'm currently studying backend elements like Express JS and MongoDB.<br/>
 WAMP (Windows, Apache, MySQL, PHP) technologies are another area where I perform well.<br/>
 
